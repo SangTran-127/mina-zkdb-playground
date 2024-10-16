@@ -12,7 +12,7 @@
   "dependencies": {
     "@zkdb/smart-contract": "^1.1.6",
     "mina-signer": "^3.0.7",
-    "o1js": "^1.8.0",
+    "o1js": "1.9.0",
     "react": "^18.3.1",
     "react-dom": "^18.3.1"
   },
